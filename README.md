@@ -1,9 +1,9 @@
 # 💻 Laptop Price Prediction with Machine Learning
 
 Bu proje, **Yapay Zeka Uygulamaları** dersi kapsamında gerçekleştirilmiştir. Amacımız, dizüstü bilgisayarların donanım özelliklerini analiz ederek fiyatlarını tahmin eden bir makine öğrenimi modeli oluşturmaktır.
-```
+
 🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)
-```
+
 ## 📂 Veri Seti
 
 Kullanılan veri seti `laptop_data.csv` dosyasıdır ve 1303 farklı ürün kaydı içermektedir. Her kayıtta marka, model, RAM, işlemci tipi, ekran çözünürlüğü, ekran kartı ve depolama gibi özellikler yer almaktadır.
